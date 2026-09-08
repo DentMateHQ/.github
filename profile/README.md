@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="../dentmate-cover.png" alt="DentMateHQ — Intelligent tools for dentists" width="100%">
+</p>
+
+<br>
+
 # 🦷 DentMateHQ
 
 ### Building intelligent tools for the next generation of dentists.
